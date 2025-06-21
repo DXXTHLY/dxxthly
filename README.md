@@ -58,7 +58,7 @@ Take control of your browser audio like never before.
 ### 🔗 Links
 
 - 🌐 [Website / Storefront](https://deathly.info)
-- 📷 [YouTube (coming soon? 👀)](https://youtube.com)
+- 📷 [YouTube (👀)](https://www.youtube.com/@dreamwavepro)
 - 🐍 [Source Code Samples (Ask Me!)]
 - ☕ 
 <h3 align="left">Support:</h3>
