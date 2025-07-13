@@ -7,7 +7,7 @@
 
 ### 🎯 About Me
 
-I'm **dxxthly**, a rogue dev with a toolbox full of automation, Arduino wizardry, and browser sorcery. I build tools that do what they shouldn't — from *aimbots* and *auto chat spam bots*, to *audio-redefining browser extensions*.
+I'm **dxxthly**, a rogue dev with a toolbox full of automation, Arduino wizardry, and browser sorcery. I build tools that do what they shouldn't.. from *aimbots* and *auto chat spam bots*, to *audio-redefining browser extensions*.
 
 If it's weird, cursed, or dangerously efficient, I'm probably building it.
 
