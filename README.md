@@ -59,8 +59,8 @@ Take control of your browser audio like never before.
 
 - 🌐 [Website / Storefront](https://deathly.info)
 - 📷 [YouTube (👀)](https://www.youtube.com/@dreamwavepro)
-- 🐍 [Source Code Samples (Ask Me!)]
-- ☕ 
+- ☕ [Soul Collector Game](https://sonicgetaway.com/game.html)
+   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/deathly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deathly" /></a></p><br><br>
 
