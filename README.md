@@ -39,7 +39,7 @@ Code
         <h3> 🎯 Featured Project </h3>
       </div>
       <a href="https://deathly.info">
-        <img src="https://i.gyazo.com/e0b96590b5846d37915ccd73ae79c32d.png" alt="DreamWave Pro Banner" width="100%"/>
+        <img src="https://i.gyazo.com/a4b42873bc39d1e2024885fb55179e22.png" alt="DreamWave Pro Banner" width="100%"/>
       </a>
       <p align="center">
         <b>Transform web audio instantly.</b><br>
