@@ -69,11 +69,11 @@ Code
   <a href="https://github.com/dxxthly/DotBot-ColorBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dxxthly&repo=DotBot-ColorBot&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/dxxthly/SlitherIO-ModMenu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dxxthly&repo=SlitherIO-ModMenu&theme=radical&hide_border=true" />
+  <a href="https://github.com/DXXTHLY/SlitherModMenu">
+    <img src="https://github.com/DXXTHLY/SlitherModMenu" />
   </a>
-  <a href="https://github.com/dxxthly/AFK-SpamBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dxxthly&repo=AFK-SpamBot&theme=radical&hide_border=true" />
+  <a href="https://github.com/DXXTHLY/AFK-SpamBot-for-PC-and-Console-Arduino-Leonardo-">
+    <img src="https://github.com/DXXTHLY/AFK-SpamBot-for-PC-and-Console-Arduino-Leonardo-" />
   </a>
 </p>
 
