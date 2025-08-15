@@ -8,7 +8,7 @@
   <a href="https://github.com/dxxthly">
     <img src="https://img.shields.io/badge/--black?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@dreamwavepro">
+  <a href="https://www.youtube.com/@dxxthly">
     <img src="https://img.shields.io/badge/--red?logo=youtube&style=for-the-badge" />
   </a>
   <a href="https://deathly.info">
