@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://deathly.info">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%3C%2Fdxxthly%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%3C%2Fdxxthly.%3E" alt="Typing SVG" />
 </a>
 
 <p align="center">
