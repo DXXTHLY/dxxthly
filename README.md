@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <a href="https://dsc.gg/143x">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=discord:+dxxthly." alt="Typing SVG" />
 </a>
