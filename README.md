@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@dxxthly">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://deathly.info">
+  <a href="https://discord.dxxthly.com">
     <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
@@ -67,20 +67,23 @@ If it’s cursed, broken, or dangerously efficient, I’ve probably coded it.
 ### 🧪 Projects You Might Regret Downloading
 
 <p align="center">
+<a href="https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/DXXTHLY/safe-http-load-tester">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/DXXTHLY/AlterPage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=radical&hide_border=true" />
+</a>
 <a href="https://github.com/DXXTHLY/DotBot-ColorBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/DXXTHLY/SlitherModMenu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=SlitherModMenu&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/DXXTHLY/AFK-SpamBot-for-PC-and-Console-Arduino-Leonardo-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AFK-SpamBot-for-PC-and-Console-Arduino-Leonardo-&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/DXXTHLY/best-optimizer-bat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=best-optimizer-bat&theme=radical&hide_border=true" />
+<a href="https://github.com/DXXTHLY/ClickSyncFX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=radical&hide_border=true" />
 </a>
 </p>
 
@@ -89,16 +92,15 @@ If it’s cursed, broken, or dangerously efficient, I’ve probably coded it.
 
 | Project | Description |
 |---------|-------------|
+| 💡 `Ideaspark-ESP32` | ESP32 Steam friend tracker with custom .EXE generator tool |
+| 🛡️ `Safe-HTTP-Load-Tester` | Professional-grade asynchronous load testing suite |
+| 🌍 `AlterPage` | Streamlined browser extension for injecting custom JS scripts |
 | 🟢 `DotBot-ColorBot` | OpenCV + Arduino red-dot aimbot for PC/Console |
+| ⚡ `BAT-CMD-to-EXE-Converter` | Convert .BAT/.CMD files into standalone EXEs |
+| 🖱️ `ClickSyncFX` | Specialized clicking automation and synchronization |
 | 🟣 `SlitherIO-ModMenu` | Custom UI & bot for Slither.io |
 | 🔴 `AFK-SpamBot` | Anti-AFK + Chat spam bot for PC & console |
-| ⚡ `BAT-CMD-to-EXE-Converter` | Convert .BAT/.CMD files into standalone EXEs |
-| 💻 `best-optimizer-bat` | PC optimizer for speed & cleanup |
-| 🧠 `AutoHotKey-Input-Detector` | Input-trigger automation scripts |
 | 💤 `BO6-AFK-CHAT-SCRIPT` | CoD:BO6 XP & spam automation |
-| 🎮 `Arduino-Text-Based-Game` | Serial RPG playable on Arduino |
-| 📻 `Schedule1-TextMod` | Mod loader for Schedule 1 |
-| 💡 `Ideaspark-ESP32` | ESP32 Steam friend matcher |
 
 </details>
 
@@ -122,9 +124,9 @@ If it’s cursed, broken, or dangerously efficient, I’ve probably coded it.
 
 ### 🧠 Current Transmissions
 - 🛸 Upgrading **DreamWave Pro** with real-time audio modules  
-- 🕹️ Building a multiplayer minigame inspired by *“It Takes Two”*  
+- 💡 Enhancing **ESP32 Steam Tracker** with no-code "Plug & Play" tools  
 - 🤖 Engineering a stealth colorbot with Arduino handshake  
-- 🔧 Packaging `DotBot` for undetectable deployment via Nuitka  
+- 🛡️ Optimizing asynchronous engines for the **HTTP Performance Tester**
 
 ---
 
