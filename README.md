@@ -7,7 +7,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/dxxthly">
+  <a href="https://github.com/DXXTHLY">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@dxxthly">
@@ -54,8 +54,8 @@ If it’s cursed, broken, or dangerously efficient, I’ve probably coded it.
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dxxthly&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxthly&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=DXXTHLY&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXTHLY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 </td>
@@ -66,26 +66,30 @@ If it’s cursed, broken, or dangerously efficient, I’ve probably coded it.
 
 ### 🧪 Projects You Might Regret Downloading
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/safe-http-load-tester">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/AlterPage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/DotBot-ColorBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/DXXTHLY/ClickSyncFX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=dark&hide_border=true" />
 </a>
-</p>
+
+</div>
+
+<br>
 
 <details>
 <summary>🔍 Full List of Cursed Creations</summary>
