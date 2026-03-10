@@ -92,12 +92,12 @@
 
 <div align="center">
 
-<a href="https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
-<a href="https://github.com/DXXTHLY/safe-http-load-tester"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
-<a href="https://github.com/DXXTHLY/AlterPage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
-<a href="https://github.com/DXXTHLY/DotBot-ColorBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
-<a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
-<a href="https://github.com/DXXTHLY/ClickSyncFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+[![Ideaspark-ESP32-Steam-Friends](https://img.shields.io/badge/💡_Ideaspark--ESP32--Steam--Friends-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends)
+[![safe-http-load-tester](https://img.shields.io/badge/🛡️_safe--http--load--tester-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/safe-http-load-tester)
+[![AlterPage](https://img.shields.io/badge/🌍_AlterPage-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/AlterPage)
+[![DotBot-ColorBot](https://img.shields.io/badge/🟢_DotBot--ColorBot-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/DotBot-ColorBot)
+[![BAT-CMD-to-EXE-Converter](https://img.shields.io/badge/⚡_BAT--CMD--to--EXE--Converter-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter)
+[![ClickSyncFX](https://img.shields.io/badge/🖱️_ClickSyncFX-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DXXTHLY/ClickSyncFX)
 
 </div>
 
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DXXTHLY&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020&text_color=cccccc" width="48%" />
+<img src="https://streak-stats.demolab.com?user=DXXTHLY&theme=dark&hide_border=true&background=0d0d0d&ring=FF2020&fire=FF2020&currStreakLabel=FF2020" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXTHLY&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&text_color=cccccc" width="44%" />
 
 </div>
