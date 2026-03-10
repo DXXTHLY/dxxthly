@@ -1,146 +1,216 @@
 <div align="center">
 
-<a href="https://dxxthly.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=800&color=FF2222&center=true&vCenter=true&width=700&lines=dxxthly.com;designs+forged+in+darkness.;3D+prints.+music.+games.+code." alt="DXXTHLY" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=13&pause=999999&color=FF2020&center=true&vCenter=true&width=700&lines=SIGNAL+DETECTED+···+DECRYPTING+···+LOADING+DXXTHLY.EXE" alt="" />
+
+```
+      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+      ░                                                             ░
+      ░  ██████╗ ██╗  ██╗██╗  ██╗████████╗██╗  ██╗██╗    ██╗   ██╗░
+      ░  ██╔══██╗╚██╗██╔╝╚██╗██╔╝╚══██╔══╝██║  ██║██║    ╚██╗ ██╔╝░
+      ░  ██║  ██║ ╚███╔╝  ╚███╔╝    ██║   ███████║██║     ╚████╔╝ ░
+      ░  ██║  ██║ ██╔██╗  ██╔██╗    ██║   ██╔══██║██║      ╚██╔╝  ░
+      ░  ██████╔╝██╔╝ ██╗██╔╝ ██╗   ██║   ██║  ██║███████╗  ██║   ░
+      ░  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝  ╚═╝   ░
+      ░                                                             ░
+      ░              D E S I G N S   F O R G E D                   ░
+      ░                   I N   D A R K N E S S                    ░
+      ░                                                             ░
+      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
 
 <br/>
 
-```
-☠  Est. 2024  ·  Rogue Dev  ·  Designs Forged in Darkness  ☠
-```
+```bash
+[DXXTHLY@void ~]$ cat /etc/identity.conf
 
-<br/>
+  TYPE     ::  rogue developer / 3d print designer / game dev
+  BASE     ::  the internet's dark corner
+  EST      ::  2024
+  STATUS   ::  actively building cursed things
+  MOTTO    ::  "if it runs in the background, it's probably mine"
 
-[![VISIT WEBSITE](https://img.shields.io/badge/🌐_VISIT_DXXTHLY.COM-FF2222?style=for-the-badge&logoColor=white)](https://dxxthly.com)
-&nbsp;
-[![SHOP](https://img.shields.io/badge/🛒_SHOP_STL_FILES-111111?style=for-the-badge)](https://dxxthly.com/#stl)
-&nbsp;
-[![PLAY GAME](https://img.shields.io/badge/🎮_PLAY_GAME-1a1a1a?style=for-the-badge)](https://dxxthly.github.io/game.html)
+[DXXTHLY@void ~]$ █
+```
 
 <br/>
 
 ---
 
-## ☠ [dxxthly.com](https://dxxthly.com)
+<div align="center">
 
-> **3D prints. Music. Games. Code. All in one dark corner of the internet.**
+## ☠ &nbsp; EVERYTHING LIVES HERE &nbsp; ☠
 
-| [🎵 Music](https://dxxthly.github.io/music.html) | [🎮 Game](https://dxxthly.github.io/game.html) | [📦 STL Files](https://dxxthly.com/#stl) | [📓 Devlog](https://dxxthly.github.io/devlog.html) | [🛒 Shop](https://dxxthly.com/#shop) |
+<br/>
+
+### ► &nbsp; [dxxthly.com](https://dxxthly.com) &nbsp; ◄
+
+*3D Prints · STL Files · Music · Games · Devlog · Shop*
+
+<br/>
+
+| [![STL FILES](https://img.shields.io/badge/📦_STL_FILES-0d0d0d?style=for-the-badge)](https://dxxthly.com/#stl) | [![MUSIC](https://img.shields.io/badge/🎵_MUSIC-0d0d0d?style=for-the-badge)](https://dxxthly.github.io/music.html) | [![GAME](https://img.shields.io/badge/🎮_GAME-0d0d0d?style=for-the-badge)](https://dxxthly.github.io/game.html) | [![DEVLOG](https://img.shields.io/badge/📓_DEVLOG-0d0d0d?style=for-the-badge)](https://dxxthly.github.io/devlog.html) | [![SHOP](https://img.shields.io/badge/🛒_SHOP-FF2020?style=for-the-badge)](https://dxxthly.com/#shop) |
 |:---:|:---:|:---:|:---:|:---:|
 
----
-
 </div>
 
-### `> whoami`
-
-I'm a rogue dev walking the line between code and chaos.  
-I build tools that do what shouldn't exist — **AI bots, audio engines, Arduino wizardry**, and automation that borders on sorcery.  
-I also design **3D printable STL files**, make music, and ship cursed projects nobody asked for.
-
-**→ Everything lives at [dxxthly.com](https://dxxthly.com)**
+<br/>
 
 ---
 
 <div align="center">
 
-### ⚡ Featured — DreamWave Pro
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║               ///  FEATURED DROP  ///                   ║
+ ╚══════════════════════════════════════════════════════════╝
+```
 
 <a href="https://dxxthly.com">
-  <img src="https://i.gyazo.com/a4b42873bc39d1e2024885fb55179e22.png" alt="DreamWave Pro" width="75%" />
+<img src="https://i.gyazo.com/a4b42873bc39d1e2024885fb55179e22.png" width="70%" alt="DreamWave Pro" />
 </a>
 
-**Transform browser audio in real-time.**  
-🔊 8 Presets · 🎚️ 10-Band EQ · ⚡ Real-Time Pitch/Speed · 💥 Up to 500% Volume
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DXXTHLY&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXTHLY&layout=compact&theme=dark&hide_border=true" width="45%" />
-
----
+```
+  DreamWave Pro  ──  Transform browser audio in real-time
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  🔊 8 Presets   🎚 10-Band EQ   ⚡ Real-Time Pitch/Speed
+  💥 Volume Boost to 500%   //   it does too much. on purpose.
+```
 
 </div>
 
-### 🧪 Projects You Might Regret Downloading
+<br/>
+
+---
+
+```
+ ██████████████████████████████████████████████████████████
+ ██              [ CLASSIFIED PROJECTS ]                  ██
+ ██████████████████████████████████████████████████████████
+```
 
 <div align="center">
 
-<a href="https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/DXXTHLY/safe-http-load-tester"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/DXXTHLY/AlterPage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/DXXTHLY/DotBot-ColorBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=dark&hide_border=true" /></a>
-<a href="https://github.com/DXXTHLY/ClickSyncFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/DXXTHLY/Ideaspark-ESP32-Steam-Friends"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=Ideaspark-ESP32-Steam-Friends&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+<a href="https://github.com/DXXTHLY/safe-http-load-tester"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=safe-http-load-tester&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+<a href="https://github.com/DXXTHLY/AlterPage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=AlterPage&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+<a href="https://github.com/DXXTHLY/DotBot-ColorBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=DotBot-ColorBot&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+<a href="https://github.com/DXXTHLY/BAT-CMD-to-EXE-Converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=BAT-CMD-to-EXE-Converter&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
+<a href="https://github.com/DXXTHLY/ClickSyncFX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DXXTHLY&repo=ClickSyncFX&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020" /></a>
 
 </div>
 
 <details>
-<summary>🔍 Full List of Cursed Creations</summary>
+<summary><code>▶ DECRYPT FULL PROJECT LIST</code></summary>
 
-| Project | Description |
-|---------|-------------|
-| 💡 `Ideaspark-ESP32` | ESP32 Steam friend tracker with custom .EXE generator |
-| 🛡️ `Safe-HTTP-Load-Tester` | Async load testing suite |
-| 🌍 `AlterPage` | Browser extension for injecting custom JS |
-| 🟢 `DotBot-ColorBot` | OpenCV + Arduino red-dot aimbot |
-| ⚡ `BAT-CMD-to-EXE-Converter` | .BAT/.CMD → standalone EXE |
-| 🖱️ `ClickSyncFX` | Click automation & synchronization |
-| 🟣 `SlitherIO-ModMenu` | Custom UI & bot for Slither.io |
-| 🔴 `AFK-SpamBot` | Anti-AFK + chat spam bot |
-| 💤 `BO6-AFK-CHAT-SCRIPT` | CoD:BO6 XP & spam automation |
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  FILE       │  CLASSIFICATION                                 │
+├─────────────┼────────────────────────────────────────────────┤
+│  ESP32      │  Steam friend tracker + custom .EXE generator  │
+│  HTTP-TEST  │  Async professional-grade load testing suite    │
+│  AlterPage  │  Browser extension — inject JS anywhere         │
+│  DotBot     │  OpenCV + Arduino red-dot aimbot                │
+│  BAT2EXE    │  .BAT/.CMD → standalone executable              │
+│  ClickSync  │  Click automation and synchronization engine    │
+│  SlitherMod │  Custom UI & bot for Slither.io                 │
+│  AFKSpam    │  Anti-AFK + chat spam bot (PC & console)        │
+│  BO6-AFK    │  CoD:BO6 XP & spam automation script            │
+└─────────────┴────────────────────────────────────────────────┘
+```
 
 </details>
 
----
-
-### ⚒️ Tech Arsenal
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuitka-2A5989?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
+<br/>
 
 ---
 
-### 🧠 Current Transmissions
-- 🛸 Upgrading **DreamWave Pro** with real-time audio modules  
-- 💡 Enhancing **ESP32 Steam Tracker** with Plug & Play tooling  
-- 🤖 Engineering a stealth colorbot with Arduino handshake  
-- 🛒 Dropping new **STL files** at [dxxthly.com](https://dxxthly.com)
+```
+ ──────────────────────  STATS  ──────────────────────────────
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DXXTHLY&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&icon_color=FF2020&text_color=cccccc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXTHLY&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF2020&text_color=cccccc" width="44%" />
+
+</div>
+
+<br/>
+
+---
+
+```
+ ──────────────────────  ARSENAL  ────────────────────────────
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Nuitka](https://img.shields.io/badge/Nuitka-2A5989?style=flat-square)
+
+</div>
+
+<br/>
+
+---
+
+```
+ ──────────────────────  CURRENT OPS  ────────────────────────
+```
+
+```bash
+[DXXTHLY@void ~]$ tail -f /var/log/active_ops.log
+
+  [▓▓▓▓▓▓▓▓░░]  DreamWave Pro    — real-time audio module upgrade
+  [▓▓▓▓▓░░░░░]  ESP32 Tracker    — plug & play no-code tooling
+  [▓▓▓░░░░░░░]  ColorBot Mk.II   — stealth Arduino handshake build
+  [▓▓▓▓▓▓░░░░]  STL Drops        — new designs @ dxxthly.com
+
+[DXXTHLY@void ~]$ █
+```
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 🔗 Find Everything
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║               FIND ME / SUPPORT THE WORK                ║
+ ╚══════════════════════════════════════════════════════════╝
+```
 
-[![dxxthly.com](https://img.shields.io/badge/🌐_dxxthly.com-FF2222?style=for-the-badge)](https://dxxthly.com)
-[![Etsy](https://img.shields.io/badge/Etsy_Store-F56400?style=for-the-badge&logo=etsy&logoColor=white)](https://www.etsy.com/shop/DXXTHLY)
-[![eBay](https://img.shields.io/badge/eBay_Store-0064D2?style=for-the-badge&logo=ebay&logoColor=white)](https://www.ebay.com/usr/deathly197)
+[![dxxthly.com](https://img.shields.io/badge/🌐_dxxthly.com-FF2020?style=for-the-badge)](https://dxxthly.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dg43fxqKPq)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dxxthly)
+[![Etsy](https://img.shields.io/badge/Etsy-F56400?style=for-the-badge&logo=etsy&logoColor=white)](https://www.etsy.com/shop/DXXTHLY)
+[![eBay](https://img.shields.io/badge/eBay-0064D2?style=for-the-badge&logo=ebay&logoColor=white)](https://www.ebay.com/usr/deathly197)
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/deathly">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" width="210" alt="Buy Me a Coffee" />
-</a>
+[![Donate via PayPal](https://img.shields.io/badge/⚡_FUEL_THE_CHAOS_—_DONATE_VIA_PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=SC3RFTW5QDZJ4&no_recurring=0&currency_code=USD)
 
-<br/><br/>
+<br/>
 
-<blockquote><i>"If it runs in the background and makes life weirder — it's probably mine."</i></blockquote>
-
-☠ **[dxxthly.com](https://dxxthly.com)** ☠
+```
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░   "if it runs in the background and makes       ░
+  ░    life weirder — it's probably mine."          ░
+  ░                                                 ░
+  ░                         ☠  dxxthly.com  ☠      ░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 </div>
