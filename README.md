@@ -23,7 +23,7 @@
 ```
   TYPE    →  rogue developer / 3d print designer / game dev
   BASE    →  the internet's dark corner
-  EST     →  2024
+  EST     →  2011
   STATUS  →  actively building cursed things
   MOTTO   →  "if it runs in the background, it's probably mine"
 ```
